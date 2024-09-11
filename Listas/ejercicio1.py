@@ -8,4 +8,11 @@ def numeros():
     for i in pares: #i=2
         print(i)
 
-numeros()
+#numeros()
+
+def nombres():
+    nombre = ["Paloma","Viviana","Juliana"]
+    for i in nombre:
+        print(i)
+
+nombres()
